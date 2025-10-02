@@ -62,7 +62,10 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook Atividade_PraticaP1_ArielReises.ipynb
 ```
 
-4. Execute as células para carregar os dados e visualizar as análises.
+4. Ou abra diretamente no Google Colab:
+[Abrir no Colab](https://drive.google.com/file/d/1UBjkEgxYdMLcF65SQTLY0iLn3mbFTUWI/view?usp=sharing)
+
+5. Execute as células para carregar os dados e visualizar as análises.
 
 ---
 
